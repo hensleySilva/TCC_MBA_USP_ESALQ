@@ -1,0 +1,7 @@
+paleta de cores:
+
+	verde (principal): 	174650
+
+	azul claro:		1fe3cb
+
+	rosa:			b5065f
