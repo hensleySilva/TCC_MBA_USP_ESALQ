@@ -1,0 +1,50 @@
+2023-04-15 08:25:34.927 ; [Inicializando] 
+2023-04-15 08:25:34.951 ; Carregando pacotes 
+2023-04-15 08:25:37.940 ; Carregando variaveis de ambiente 
+2023-04-15 08:25:37.944 ; Conectando ao banco GLPI 
+2023-04-15 08:25:58.730 ; mensagem: Failed to connect to database: Error: Can't connect to server on '10.110.255.118' (10053)
+ 
+2023-04-15 10:39:24.015 ; [Inicializando] 
+2023-04-15 10:39:24.045 ; Carregando pacotes 
+2023-04-15 12:30:33.914 ; [Inicializando] 
+2023-04-15 12:30:33.948 ; Carregando pacotes 
+2023-04-15 12:30:34.795 ; Carregando variaveis de ambiente 
+2023-04-15 12:30:34.799 ; Conectando ao banco GLPI 
+2023-04-15 12:30:55.829 ; mensagem: Failed to connect to database: Error: Can't connect to server on '10.110.255.118' (10060)
+ 
+2023-04-15 12:34:18.000 ; [Inicializando] 
+2023-04-15 12:34:18.034 ; Carregando pacotes 
+2023-04-15 12:34:19.021 ; Carregando variaveis de ambiente 
+2023-04-15 12:34:19.024 ; Conectando ao banco GLPI 
+2023-04-15 12:34:40.100 ; mensagem: Failed to connect to database: Error: Can't connect to server on '10.110.255.118' (10060)
+ 
+2023-04-15 13:42:43.559 ; [Inicializando] 
+2023-04-15 13:42:43.582 ; Carregando pacotes 
+2023-04-15 13:42:44.698 ; Carregando variaveis de ambiente 
+2023-04-15 13:42:44.702 ; Conectando ao banco GLPI 
+2023-04-15 13:43:05.797 ; mensagem: Failed to connect to database: Error: Can't connect to server on '10.110.255.118' (10060)
+ 
+2023-04-15 19:08:56.249 ; [Inicializando] 
+2023-04-15 19:08:56.281 ; Carregando pacotes 
+2023-04-15 20:09:09.191 ; [Inicializando] 
+2023-04-15 20:09:09.220 ; Carregando pacotes 
+2023-04-15 20:09:10.447 ; Carregando variaveis de ambiente 
+2023-04-15 20:09:10.451 ; Conectando ao banco GLPI 
+2023-04-15 20:14:18.108 ; mensagem: Failed to connect to database: Error: Can't connect to server on '10.110.255.118' (10060)
+ 
+2023-04-15 21:44:41.454 ; [Inicializando] 
+2023-04-15 21:44:41.478 ; Carregando pacotes 
+2023-04-15 21:44:42.498 ; Carregando variaveis de ambiente 
+2023-04-15 21:44:42.501 ; Conectando ao banco GLPI 
+2023-04-15 23:20:31.028 ; [Inicializando] 
+2023-04-15 23:20:31.076 ; Carregando pacotes 
+2023-04-15 23:20:32.105 ; Carregando variaveis de ambiente 
+2023-04-15 23:20:32.108 ; Conectando ao banco GLPI 
+2023-04-15 23:23:34.171 ; mensagem: Failed to connect to database: Error: Can't connect to server on '10.110.255.118' (10060)
+ 
+2023-04-15 23:34:17.949 ; [Inicializando] 
+2023-04-15 23:34:17.982 ; Carregando pacotes 
+2023-04-15 23:34:18.895 ; Carregando variaveis de ambiente 
+2023-04-15 23:34:18.899 ; Conectando ao banco GLPI 
+2023-04-15 23:34:39.955 ; mensagem: Failed to connect to database: Error: Can't connect to server on '10.110.255.118' (10060)
+ 

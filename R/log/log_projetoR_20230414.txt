@@ -1,0 +1,175 @@
+2023-04-14 09:36:56.309 ; [Inicializando] 
+2023-04-14 09:36:56.344 ; Carregando pacotes 
+2023-04-14 09:36:58.269 ; Carregando variaveis de ambiente 
+2023-04-14 09:36:58.274 ; Conectando ao banco GLPI 
+2023-04-14 09:36:58.356 ; Executando consulta no banco GLPI (Origem) 
+2023-04-14 09:37:09.750 ; Gravando resultado da consulta 
+2023-04-14 09:37:14.693 ; Executando consulta no banco GLPI (Origem) 
+2023-04-14 09:37:14.759 ; Gravando resultado da consulta 
+2023-04-14 09:37:15.369 ; Encerrando conexão com o banco GLPI 
+2023-04-14 09:37:15.374 ; Conectando ao banco Atlas (Destino) 
+2023-04-14 09:37:15.658 ; Preparando tabela de destino 
+2023-04-14 09:37:16.416 ; Importação de dados 
+2023-04-14 09:37:17.888 ; Preparando tabela de destino (ATLAS.DBO.DBM_GLPI_GRUPOS_USUARIOS) 
+2023-04-14 09:37:18.520 ; Importação de dados em DBM_GLPI_GRUPOS_USUARIOS 
+2023-04-14 09:37:19.467 ; Tratamento de dados 
+2023-04-14 09:37:25.629 ; Encerrando conexão com o banco Atlas 
+2023-04-14 09:37:25.634 ; [Finalizando] Tempo de execução: 29 segundos 
+2023-04-14 10:36:56.157 ; [Inicializando] 
+2023-04-14 10:36:56.186 ; Carregando pacotes 
+2023-04-14 10:36:57.523 ; Carregando variaveis de ambiente 
+2023-04-14 10:36:57.527 ; Conectando ao banco GLPI 
+2023-04-14 10:36:57.589 ; Executando consulta no banco GLPI (Origem) 
+2023-04-14 10:37:12.006 ; Gravando resultado da consulta 
+2023-04-14 10:37:17.398 ; Executando consulta no banco GLPI (Origem) 
+2023-04-14 10:37:17.800 ; Gravando resultado da consulta 
+2023-04-14 10:37:18.929 ; Encerrando conexão com o banco GLPI 
+2023-04-14 10:37:18.931 ; Conectando ao banco Atlas (Destino) 
+2023-04-14 10:37:19.249 ; Preparando tabela de destino 
+2023-04-14 10:37:20.616 ; Importação de dados 
+2023-04-14 10:37:25.140 ; Preparando tabela de destino (ATLAS.DBO.DBM_GLPI_GRUPOS_USUARIOS) 
+2023-04-14 10:37:26.376 ; Importação de dados em DBM_GLPI_GRUPOS_USUARIOS 
+2023-04-14 10:37:27.090 ; Tratamento de dados 
+2023-04-14 10:37:35.675 ; Encerrando conexão com o banco Atlas 
+2023-04-14 10:37:35.682 ; [Finalizando] Tempo de execução: 40 segundos 
+2023-04-14 12:34:18.872 ; [Inicializando] 
+2023-04-14 12:34:18.915 ; Carregando pacotes 
+2023-04-14 12:34:21.326 ; Carregando variaveis de ambiente 
+2023-04-14 12:34:21.331 ; Conectando ao banco GLPI 
+2023-04-14 12:34:21.384 ; Executando consulta no banco GLPI (Origem) 
+2023-04-14 12:34:33.687 ; Gravando resultado da consulta 
+2023-04-14 12:34:34.503 ; Executando consulta no banco GLPI (Origem) 
+2023-04-14 12:34:34.569 ; Gravando resultado da consulta 
+2023-04-14 12:34:34.711 ; Encerrando conexão com o banco GLPI 
+2023-04-14 12:34:34.716 ; Conectando ao banco Atlas (Destino) 
+2023-04-14 12:34:34.874 ; Preparando tabela de destino 
+2023-04-14 12:34:36.495 ; Importação de dados 
+2023-04-14 12:34:37.931 ; Preparando tabela de destino (ATLAS.DBO.DBM_GLPI_GRUPOS_USUARIOS) 
+2023-04-14 12:34:38.972 ; Importação de dados em DBM_GLPI_GRUPOS_USUARIOS 
+2023-04-14 12:34:39.657 ; Tratamento de dados 
+2023-04-14 12:34:44.779 ; Encerrando conexão com o banco Atlas 
+2023-04-14 12:34:44.786 ; [Finalizando] Tempo de execução: 26 segundos 
+2023-04-14 13:47:40.834 ; [Inicializando] 
+2023-04-14 13:47:40.860 ; Carregando pacotes 
+2023-04-14 13:52:07.453 ; Carregando variaveis de ambiente 
+2023-04-14 13:52:07.456 ; Conectando ao banco GLPI 
+2023-04-14 13:52:28.502 ; mensagem: Failed to connect to database: Error: Can't connect to server on '10.110.255.118' (10060)
+ 
+2023-04-14 14:34:18.013 ; [Inicializando] 
+2023-04-14 14:34:18.048 ; Carregando pacotes 
+2023-04-14 14:34:18.939 ; Carregando variaveis de ambiente 
+2023-04-14 14:34:18.942 ; Conectando ao banco GLPI 
+2023-04-14 14:34:19.006 ; Executando consulta no banco GLPI (Origem) 
+2023-04-14 14:34:32.423 ; Gravando resultado da consulta 
+2023-04-14 14:34:33.197 ; Executando consulta no banco GLPI (Origem) 
+2023-04-14 14:34:33.237 ; Gravando resultado da consulta 
+2023-04-14 14:34:33.330 ; Encerrando conexão com o banco GLPI 
+2023-04-14 14:34:33.334 ; Conectando ao banco Atlas (Destino) 
+2023-04-14 14:34:33.556 ; Preparando tabela de destino 
+2023-04-14 14:34:34.355 ; Importação de dados 
+2023-04-14 14:34:36.471 ; Preparando tabela de destino (ATLAS.DBO.DBM_GLPI_GRUPOS_USUARIOS) 
+2023-04-14 14:34:37.068 ; Importação de dados em DBM_GLPI_GRUPOS_USUARIOS 
+2023-04-14 14:34:37.605 ; Tratamento de dados 
+2023-04-14 14:34:42.362 ; Encerrando conexão com o banco Atlas 
+2023-04-14 14:34:42.371 ; [Finalizando] Tempo de execução: 24 segundos 
+2023-04-14 15:34:18.202 ; [Inicializando] 
+2023-04-14 15:34:18.239 ; Carregando pacotes 
+2023-04-14 15:34:19.641 ; Carregando variaveis de ambiente 
+2023-04-14 15:34:19.648 ; Conectando ao banco GLPI 
+2023-04-14 15:34:19.701 ; Executando consulta no banco GLPI (Origem) 
+2023-04-14 15:34:31.173 ; Gravando resultado da consulta 
+2023-04-14 15:34:31.721 ; Executando consulta no banco GLPI (Origem) 
+2023-04-14 15:34:31.754 ; Gravando resultado da consulta 
+2023-04-14 15:34:31.841 ; Encerrando conexão com o banco GLPI 
+2023-04-14 15:34:31.844 ; Conectando ao banco Atlas (Destino) 
+2023-04-14 15:34:32.003 ; Preparando tabela de destino 
+2023-04-14 15:34:32.752 ; Importação de dados 
+2023-04-14 15:34:34.806 ; Preparando tabela de destino (ATLAS.DBO.DBM_GLPI_GRUPOS_USUARIOS) 
+2023-04-14 15:34:35.318 ; Importação de dados em DBM_GLPI_GRUPOS_USUARIOS 
+2023-04-14 15:34:35.959 ; Tratamento de dados 
+2023-04-14 15:34:44.406 ; Encerrando conexão com o banco Atlas 
+2023-04-14 15:34:44.410 ; [Finalizando] Tempo de execução: 26 segundos 
+2023-04-14 16:34:18.013 ; [Inicializando] 
+2023-04-14 16:34:18.041 ; Carregando pacotes 
+2023-04-14 16:34:19.044 ; Carregando variaveis de ambiente 
+2023-04-14 16:34:19.049 ; Conectando ao banco GLPI 
+2023-04-14 16:34:19.099 ; Executando consulta no banco GLPI (Origem) 
+2023-04-14 16:34:32.299 ; Gravando resultado da consulta 
+2023-04-14 16:34:32.996 ; Executando consulta no banco GLPI (Origem) 
+2023-04-14 16:34:33.039 ; Gravando resultado da consulta 
+2023-04-14 16:34:33.142 ; Encerrando conexão com o banco GLPI 
+2023-04-14 16:34:33.146 ; Conectando ao banco Atlas (Destino) 
+2023-04-14 16:34:33.303 ; Preparando tabela de destino 
+2023-04-14 16:34:33.575 ; Importação de dados 
+2023-04-14 16:34:34.583 ; Preparando tabela de destino (ATLAS.DBO.DBM_GLPI_GRUPOS_USUARIOS) 
+2023-04-14 16:34:34.693 ; Importação de dados em DBM_GLPI_GRUPOS_USUARIOS 
+2023-04-14 16:34:35.236 ; Tratamento de dados 
+2023-04-14 16:34:37.998 ; Encerrando conexão com o banco Atlas 
+2023-04-14 16:34:38.007 ; [Finalizando] Tempo de execução: 20 segundos 
+2023-04-14 18:34:18.035 ; [Inicializando] 
+2023-04-14 18:34:18.061 ; Carregando pacotes 
+2023-04-14 18:34:19.008 ; Carregando variaveis de ambiente 
+2023-04-14 18:34:19.013 ; Conectando ao banco GLPI 
+2023-04-14 18:34:19.062 ; Executando consulta no banco GLPI (Origem) 
+2023-04-14 18:34:30.361 ; Gravando resultado da consulta 
+2023-04-14 18:34:31.028 ; Executando consulta no banco GLPI (Origem) 
+2023-04-14 18:34:31.068 ; Gravando resultado da consulta 
+2023-04-14 18:34:31.144 ; Encerrando conexão com o banco GLPI 
+2023-04-14 18:34:31.147 ; Conectando ao banco Atlas (Destino) 
+2023-04-14 18:34:31.275 ; Preparando tabela de destino 
+2023-04-14 18:34:32.618 ; Importação de dados 
+2023-04-14 18:34:34.155 ; Preparando tabela de destino (ATLAS.DBO.DBM_GLPI_GRUPOS_USUARIOS) 
+2023-04-14 18:34:34.963 ; Importação de dados em DBM_GLPI_GRUPOS_USUARIOS 
+2023-04-14 18:34:35.578 ; Tratamento de dados 
+2023-04-14 18:34:47.666 ; Encerrando conexão com o banco Atlas 
+2023-04-14 18:34:47.669 ; [Finalizando] Tempo de execução: 30 segundos 
+2023-04-14 19:34:18.089 ; [Inicializando] 
+2023-04-14 19:34:18.125 ; Carregando pacotes 
+2023-04-14 19:34:19.108 ; Carregando variaveis de ambiente 
+2023-04-14 19:34:19.112 ; Conectando ao banco GLPI 
+2023-04-14 19:34:19.158 ; Executando consulta no banco GLPI (Origem) 
+2023-04-14 19:34:31.693 ; Gravando resultado da consulta 
+2023-04-14 19:34:32.198 ; Executando consulta no banco GLPI (Origem) 
+2023-04-14 19:34:32.240 ; Gravando resultado da consulta 
+2023-04-14 19:34:32.291 ; Encerrando conexão com o banco GLPI 
+2023-04-14 19:34:32.295 ; Conectando ao banco Atlas (Destino) 
+2023-04-14 19:34:32.483 ; Preparando tabela de destino 
+2023-04-14 19:34:32.612 ; Importação de dados 
+2023-04-14 19:34:34.097 ; Preparando tabela de destino (ATLAS.DBO.DBM_GLPI_GRUPOS_USUARIOS) 
+2023-04-14 19:34:34.233 ; Importação de dados em DBM_GLPI_GRUPOS_USUARIOS 
+2023-04-14 19:34:34.755 ; Tratamento de dados 
+2023-04-14 19:34:38.795 ; Encerrando conexão com o banco Atlas 
+2023-04-14 19:34:38.800 ; [Finalizando] Tempo de execução: 21 segundos 
+2023-04-14 20:34:18.006 ; [Inicializando] 
+2023-04-14 20:34:18.041 ; Carregando pacotes 
+2023-04-14 20:34:18.998 ; Carregando variaveis de ambiente 
+2023-04-14 20:34:19.004 ; Conectando ao banco GLPI 
+2023-04-14 20:34:19.055 ; Executando consulta no banco GLPI (Origem) 
+2023-04-14 20:34:29.947 ; Gravando resultado da consulta 
+2023-04-14 20:34:30.420 ; Executando consulta no banco GLPI (Origem) 
+2023-04-14 20:34:30.463 ; Gravando resultado da consulta 
+2023-04-14 20:34:30.554 ; Encerrando conexão com o banco GLPI 
+2023-04-14 20:34:30.558 ; Conectando ao banco Atlas (Destino) 
+2023-04-14 20:34:30.749 ; Preparando tabela de destino 
+2023-04-14 20:34:30.857 ; Importação de dados 
+2023-04-14 20:34:31.765 ; Preparando tabela de destino (ATLAS.DBO.DBM_GLPI_GRUPOS_USUARIOS) 
+2023-04-14 20:34:31.850 ; Importação de dados em DBM_GLPI_GRUPOS_USUARIOS 
+2023-04-14 20:34:32.284 ; Tratamento de dados 
+2023-04-14 20:34:35.866 ; Encerrando conexão com o banco Atlas 
+2023-04-14 20:34:35.877 ; [Finalizando] Tempo de execução: 18 segundos 
+2023-04-14 22:26:08.551 ; [Inicializando] 
+2023-04-14 22:26:08.574 ; Carregando pacotes 
+2023-04-14 22:26:09.696 ; Carregando variaveis de ambiente 
+2023-04-14 22:26:09.700 ; Conectando ao banco GLPI 
+2023-04-14 23:19:38.780 ; [Inicializando] 
+2023-04-14 23:19:38.823 ; Carregando pacotes 
+2023-04-14 23:19:40.257 ; Carregando variaveis de ambiente 
+2023-04-14 23:19:40.261 ; Conectando ao banco GLPI 
+2023-04-14 23:20:00.026 ; mensagem: Failed to connect to database: Error: Can't connect to server on '10.110.255.118' (10053)
+ 
+2023-04-14 23:34:17.944 ; [Inicializando] 
+2023-04-14 23:34:17.974 ; Carregando pacotes 
+2023-04-14 23:34:18.992 ; Carregando variaveis de ambiente 
+2023-04-14 23:34:19.000 ; Conectando ao banco GLPI 
+2023-04-14 23:34:40.083 ; mensagem: Failed to connect to database: Error: Can't connect to server on '10.110.255.118' (10060)
+ 

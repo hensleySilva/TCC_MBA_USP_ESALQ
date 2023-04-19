@@ -1,0 +1,17 @@
+2023-04-06 20:43:30.822 ; [Inicializando] 
+2023-04-06 20:43:30.861 ; Carregando pacotes 
+2023-04-06 20:43:32.084 ; Carregando variaveis de ambiente 
+2023-04-06 20:43:32.086 ; Conectando ao banco GLPI 
+2023-04-06 20:43:32.132 ; Executando consulta no banco GLPI (Origem) 
+2023-04-06 20:43:43.619 ; Gravando resultado da consulta 
+2023-04-06 20:43:44.326 ; Executando consulta no banco GLPI (Origem) 
+2023-04-06 20:43:44.367 ; Gravando resultado da consulta 
+2023-04-06 20:43:44.457 ; Encerrando conexão com o banco GLPI 
+2023-04-06 20:43:44.459 ; Conectando ao banco Atlas (Destino) 
+2023-04-06 20:43:44.632 ; Preparando tabela de destino 
+2023-04-06 20:43:45.679 ; Importação de dados 
+2023-04-06 20:43:47.267 ; Preparando tabela de destino (ATLAS.DBO.DBM_GLPI_GRUPOS_USUARIOS) 
+2023-04-06 20:43:47.724 ; Importação de dados 
+2023-04-06 20:43:48.432 ; Tratamento de dados 
+2023-04-06 20:43:51.799 ; Encerrando conexão com o banco Atlas 
+2023-04-06 20:43:51.802 ; [Finalizando] Tempo de execução: 21 segundos 
